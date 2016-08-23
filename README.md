@@ -1,3 +1,6 @@
 # Simple-Login
 
-simple login created with php and mysql.
+simple login dibuat dengan php and mysqli.
+
+
+
